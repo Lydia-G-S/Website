@@ -4,7 +4,7 @@ description: |
   Postdoctoral Research Associate, University of Cambridge
 author:
   - name: Lydia Gabriela Speyer
-    url: https://lydia-g-s.github.io
+    url: lydia-g-s.github.io
     affiliation: University of Cambridge
     affiliation_url: https://www.cam.ac.uk/
 date: 03-24-2022
