@@ -2,7 +2,7 @@ name: "website"
 title: "Lydia Speyer"
 description: |
   My Blog
-output_dir: "lydia-g-s.github.io"
+output_dir: "docs"
 navbar:
   right:
     - text: "About Me"
