@@ -1,0 +1,14 @@
+name: "website"
+title: "Lydia Speyer"
+description: |
+  My Blog
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About Me"
+      href: index.html
+    - text: "My Publications"
+      href: about.html
+    - text: "CV"
+      href: "CV_LGS.pdf"
+output: distill::distill_article

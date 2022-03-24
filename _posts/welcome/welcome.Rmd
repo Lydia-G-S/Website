@@ -1,0 +1,25 @@
+---
+title: "Lydia Gabriela Speyer"
+description: |
+  Postdoctoral Research Associate, University of Cambridge
+author:
+  - name: Lydia Gabriela Speyer
+    url: https://lydia-g-s.github.io/Website/
+    affiliation: University of Cambridge
+    affiliation_url: https://www.cam.ac.uk/
+date: 03-24-2022
+output:
+  distill::distill_article:
+    self_contained: false
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
